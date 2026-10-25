@@ -1,0 +1,5 @@
+VozRad 0.8.10
+
+• Incluye todo lo de 0.8.9 (fechas, punto final, «como»→coma, comillas, ~150 correcciones, actualizar_pc.bat).
+• Cursor en plantillas: el panel ya no lo «olvida» cuando el motor tarda en responder (causa probable de la frase escrita al final con espacio y mayúscula).
+• Si el foco se va a otra parte después de hacer clic en la plantilla, la frase igual se escribe donde hiciste clic.
