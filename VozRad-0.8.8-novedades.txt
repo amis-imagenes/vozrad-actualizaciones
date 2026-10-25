@@ -1,0 +1,4 @@
+VozRad 0.8.8
+
+• Las actualizaciones ahora llegan desde GitHub (amis-imagenes/vozrad-actualizaciones); Drive queda de respaldo.
+• Al instalar esta versión, el canal de actualizaciones cambia solo: no hay que editar nada.
