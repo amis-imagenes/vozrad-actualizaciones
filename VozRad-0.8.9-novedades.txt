@@ -1,9 +1,0 @@
-VozRad 0.8.9
-
-• Fechas: «veinticinco barra diez barra dos mil veintiséis» -> 25/10/2026.
-• Punto final que el motor se tragaba: ahora se detecta y se escribe (en el registro: «punto añadido»).
-• «como» que era «coma» (como identificando, como la cual, come y…) y comillas dictadas.
-• «Punto nueva línea, la arteria…» ya no pierde lo que sigue; punto + salto en medio de plantilla va en el cursor.
-• El panel no pierde el cursor si el motor tarda; diagnóstico «⚠ inserción revisar» para el espacio/mayúscula al inicio.
-• Aviso cuando el panel del PC está más viejo que el motor + actualizar_pc.bat para ponerlo al día.
-• ~150 correcciones del dictado del 25-10 y limpieza de aprendizajes equivocados del PC.
