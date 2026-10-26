@@ -1,0 +1,5 @@
+VozRad 0.8.11
+
+• Plantillas: ya no se pega el pie del informe («Médico de Referencia Dr.(a):», «Fecha Examen:», «Saluda Atentamente»).
+• Plantillas del RIS: el título se pega con formato, no como código («<p>AngioTAC&nbsp;de t&oacute;rax</p>»).
+• Incluye todo lo de 0.8.9 y 0.8.10.
