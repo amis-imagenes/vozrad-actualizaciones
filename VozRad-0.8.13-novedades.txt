@@ -1,0 +1,6 @@
+VozRad 0.8.13
+
+• Oído radiológico (en prueba, apagado): el motor consulta un modelo de lenguaje hecho con tus informes mientras reconoce. Mídelo con evaluar_oido.
+• Los informes importados traían nombre del paciente, médico y fechas del PDF: ahora se limpian (el modelo de contexto ya no tiene apellidos como «López»).
+• «versus» -> «vs.» sin mayúscula después.
+• El panel de importar informes se abre minimizado.
