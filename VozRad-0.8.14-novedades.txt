@@ -1,0 +1,7 @@
+VozRad 0.8.14
+
+• ~110 correcciones de tu dictado del 26-27/10 (espondilolisis, fosas isquiorrectales, subpleural, Wirsung, intrahepáticas, «comaní» -> «, ni», «tamaño, morfología»…).
+• Se borró el aprendizaje equivocado «uterino -> utrículo»; el aprendizaje automático ya no cambia palabras que usas seguido.
+• Fechas con el año cortado ya no se convierten mal; los números no se cambian por palabras parecidas.
+• Ventana del motor: diagnóstico del punto final [.hueco/voz] para ajustar su detección.
+• Incluye el oído radiológico en prueba (apagado) y evaluar_oido; corrige un error que impedía prepararlo.
