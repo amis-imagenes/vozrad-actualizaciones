@@ -1,6 +1,0 @@
-VozRad 0.8.12
-
-• Espacio y mayúscula al inicio de frase o al insertar en medio: VozRad ahora escribe exactamente donde está el cursor y mira el texto real a su alrededor.
-• Números: «siete coma cinco» -> 7,5; «doce, siete por tres…» -> 12,7 x 3…; «cometros» -> cm; «tres, cuatro y cinco mm» ya no da «9 mm».
-• Correcciones: parenquimatosas (para enquematosas, paranclimatosas), hemitórax, finos septos, lesión expansiva de estirpe lipomatosa.
-• Incluye 0.8.11: plantillas sin «Médico de Referencia», «Fecha Examen», «Saluda Atentamente» y títulos sin código.

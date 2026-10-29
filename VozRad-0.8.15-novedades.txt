@@ -1,0 +1,5 @@
+VozRad 0.8.15
+
+• Predicción por contexto: cuando el motor duda de una palabra, se elige la que suele ir ahí en tus informes y suena parecido (nunca cambia lateralidad, negaciones, severidad ni números).
+• evaluar_oido ahora mide la predicción y deja VozRad-evaluacion-prediccion.txt en el Escritorio.
+• Modo servidor para el piloto en IRAD (instalar_servidor.sh, LEEME_SERVIDOR.txt) y direcciones https en la extensión.
