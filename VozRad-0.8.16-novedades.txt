@@ -1,0 +1,4 @@
+VozRad 0.8.16
+
+• La predicción por contexto queda apagada: con 252 frases del Mac no mejoró (4,81% sin ella, 4,86% con ella).
+• evaluar_oido muestra cómo quedó cada frase después de las correcciones.
