@@ -1,0 +1,6 @@
+VozRad 0.8.17
+
+• ~140 correcciones de tu dictado del 29-31/10 (tubo de traqueostomía, AP-lateral, alveolar, esteatosis, colelitiasis, íleo mecánico, HNP, acetabular, Lauenstein...).
+• El modelo de contexto ya no cambia palabras reales tuyas (epigastrio, cotilo) ni por palabras muy distintas.
+• Números: «siete siete» ya no suma 14, «cinco seis por…» = 5,6, «tres comatro» = 3,4; «L1 y L2» queda como dos vértebras.
+• El guion une sin espacios (inflamatorio-infeccioso, L5-S1). El aprendizaje ya no aprende números ni palabras de más (se borraron «L1-L2 -> L1», «tobill -> del tobillo», «pseudo nodular -> pseudonodular descrita»).
