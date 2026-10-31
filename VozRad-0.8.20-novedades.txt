@@ -1,0 +1,3 @@
+VozRad 0.8.20
+
+• Nuevo: exportar_correcciones, para enviar tus correcciones (sin informes ni datos de pacientes) y sumarlas a la próxima versión para todos los radiólogos.
