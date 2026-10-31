@@ -1,0 +1,7 @@
+VozRad 0.8.18
+
+• Panel minimizado al abrir, con «● DICTANDO» y marco rojo grueso mientras dictas.
+• Dictado en cualquier cuadro de texto del RIS (addendum, planillas, etc., también dentro de marcos).
+• Comandos de voz: negrita, cursiva, subrayado, todo mayúsculas, todo minúsculas (a lo seleccionado o a la última frase).
+• SpeechMike: rojo fijo conectado, verde fijo dictando.
+• Frases tipo: lista para insertar con un clic, editar, borrar y crear nuevas.
