@@ -1,0 +1,3 @@
+VozRad 0.8.19
+
+• Nuevo: importar_correcciones, para sumar a tu perfil las correcciones y términos que comparte otro radiólogo (sin tocar los tuyos).
