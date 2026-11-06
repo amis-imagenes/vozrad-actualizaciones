@@ -1,0 +1,3 @@
+VozRad 0.8.22
+
+• Punto aparte: si lo dices al inicio de la frase siguiente (después de una pausa), el punto ahora sí cierra el párrafo anterior; «Aparte» o «Parte» solos también cuentan como punto aparte.
