@@ -1,0 +1,3 @@
+VozRad 0.8.23
+
+• Diagnóstico temporal para el problema de mayúsculas y espacios al inicio de párrafo: la ventana del motor muestra qué había antes del cursor y qué se escribió.
