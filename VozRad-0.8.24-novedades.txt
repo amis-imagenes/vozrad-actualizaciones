@@ -1,0 +1,4 @@
+VozRad 0.8.24
+
+• Correcciones de tu dictado del 6-7/11 (estenosante, colecistectomía, fosas isquiorrectales, leve ascitis, histerectomía, extravasación, uroTAC...).
+• Sigue activo el diagnóstico de mayúsculas y espacios.

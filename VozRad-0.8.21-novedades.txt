@@ -1,5 +1,0 @@
-VozRad 0.8.21
-
-• ~140 correcciones nuevas de tu dictado del 31/10 al 6/11 (tórax AP portátil, parafaríngeo, pielonefritis, quiste hidatídico, hernia hiatal, estercoráceo, laparotomía, «Impresión:»...).
-• «espacio» ya no se cambia por «epigastrio»; los números y el romano I ya no se alteran (12,1 / trapecio-I metacarpiano).
-• El corrector de contexto ya no cambia palabras que usas (colección hemática, axial) ni quita tildes (Impresión, última).
