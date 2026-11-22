@@ -1,3 +1,0 @@
-VozRad 0.8.31
-
-• Nuevo sumar_perfil: trae al PC todo lo que aceptaste y aprendiste en el Mac, sin borrar nada del PC. Así no vuelven a aparecer sugerencias que ya aceptaste allá.

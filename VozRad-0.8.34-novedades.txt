@@ -1,0 +1,3 @@
+VozRad 0.8.34
+
+• evaluar_punto corregido: la prueba anterior usaba el audio en otra escala. Vuelve a ejecutar evaluar_punto.bat.
