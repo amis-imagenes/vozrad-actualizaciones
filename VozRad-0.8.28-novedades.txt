@@ -1,3 +1,0 @@
-VozRad 0.8.28
-
-• armar_entrenamiento más preciso: corrige los casos raros que vimos en el primer resumen y aprovecha mejor las frases cortas.
