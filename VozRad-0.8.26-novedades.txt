@@ -1,4 +1,0 @@
-VozRad 0.8.26
-
-• Arreglo de la tarjeta gráfica: ahora se instalan las librerías CUDA correctas y se comprueba que el motor quedó de verdad en la tarjeta (si no, vuelve al procesador). Ejecuta activar_gpu.bat otra vez después de actualizar.
-• Nuevo armar_entrenamiento: junta tus frases dictadas (PC y Mac) con tus informes guardados para entrenar el modelo. No cambia nada de VozRad.

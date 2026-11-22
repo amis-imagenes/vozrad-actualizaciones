@@ -1,0 +1,3 @@
+VozRad 0.8.29
+
+• armar_entrenamiento: ajustes finos tras revisar el segundo resumen (no enseña errores de tipeo del informe, respeta la puntuación dictada, protege ascendente/descendente).
