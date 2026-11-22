@@ -1,0 +1,3 @@
+VozRad 0.8.25
+
+• Tarjeta gráfica NVIDIA: nuevo activar_gpu.bat (en la carpeta servidor) para que el PC reconozca con la RTX. Solo se activa si la prueba sale bien; si no, todo sigue igual.
