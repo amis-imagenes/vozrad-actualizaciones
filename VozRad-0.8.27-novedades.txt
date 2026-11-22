@@ -1,0 +1,3 @@
+VozRad 0.8.27
+
+• armar_entrenamiento: el resumen ahora siempre se crea, se guarda en tu Escritorio (también con OneDrive) y en C:\VozRad\entrenamiento\datos, y se abre solo al terminar.
