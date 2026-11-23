@@ -1,3 +1,0 @@
-VozRad 0.8.41
-
-• Entrenamiento: falta un componente de NVIDIA (libNVVM); vuelve a ejecutar instalar.sh en Ubuntu.

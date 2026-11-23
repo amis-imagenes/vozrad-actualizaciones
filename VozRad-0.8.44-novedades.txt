@@ -1,0 +1,3 @@
+VozRad 0.8.44
+
+• Entrenamiento: usa menos memoria de la tarjeta.
