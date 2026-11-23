@@ -1,4 +1,0 @@
-VozRad 0.8.33
-
-• Arreglado el espacio y la minúscula al inicio de párrafo: una marca invisible quedaba en el texto y se repetía. Recarga la extensión después de actualizar.
-• Nuevo evaluar_punto: prueba con tus dictados cómo recuperar el «punto» final que se pierde.
