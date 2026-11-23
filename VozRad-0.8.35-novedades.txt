@@ -1,3 +1,0 @@
-VozRad 0.8.35
-
-• Punto final: si la frase termina sin «punto», VozRad vuelve a escuchar el último segundo y medio y lo recupera. En la prueba con tus dictados recuperó la mitad de los puntos perdidos, casi sin puntos de más.

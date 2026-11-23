@@ -1,0 +1,3 @@
+VozRad 0.8.38
+
+• Programas para medir y entrenar el modelo con tu voz (en Ubuntu).
