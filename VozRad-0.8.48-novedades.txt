@@ -1,0 +1,3 @@
+VozRad 0.8.48
+
+• Prueba del contexto radiológico (en Ubuntu): modelo de idioma de tus informes y términos radiológicos.
