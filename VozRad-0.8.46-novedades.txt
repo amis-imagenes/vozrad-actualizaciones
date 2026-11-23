@@ -1,0 +1,3 @@
+VozRad 0.8.46
+
+• Entrenamiento: menos memoria (sin frases de más de 16 s).
