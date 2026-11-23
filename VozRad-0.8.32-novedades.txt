@@ -1,3 +1,0 @@
-VozRad 0.8.32
-
-• Punto final: al soltar el botón de grabar, VozRad sigue escuchando medio segundo para no cortar el «punto» dicho justo antes de soltar. Después de actualizar, recarga la extensión (o reinicia el navegador).
