@@ -1,0 +1,3 @@
+VozRad 0.8.39
+
+• Medición del entrenamiento más justa con números y unidades.

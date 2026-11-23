@@ -1,3 +1,0 @@
-VozRad 0.8.36
-
-• Nuevo instalador del entorno de entrenamiento (para Ubuntu/WSL).
