@@ -1,0 +1,3 @@
+VozRad 0.8.43
+
+• Entrenamiento: arreglo de compatibilidad (NumPy).
