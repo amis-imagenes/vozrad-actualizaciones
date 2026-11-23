@@ -1,0 +1,3 @@
+VozRad 0.8.40
+
+• Arreglo del ensayo de entrenamiento.

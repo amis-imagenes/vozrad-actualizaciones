@@ -1,3 +1,0 @@
-VozRad 0.8.37
-
-• Instalador del entrenamiento: muestra el avance de la prueba final.
