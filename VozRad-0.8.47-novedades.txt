@@ -1,3 +1,0 @@
-VozRad 0.8.47
-
-• Entrenamiento: entrena solo las capas altas (mucha menos memoria) y se ajusta solo si falta memoria.

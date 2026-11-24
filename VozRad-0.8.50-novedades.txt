@@ -1,0 +1,3 @@
+VozRad 0.8.50
+
+• Entrenamiento: elige la mejor vuelta y usa menos memoria en la prueba de contexto.
