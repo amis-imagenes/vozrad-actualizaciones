@@ -1,0 +1,6 @@
+VozRad 0.8.57
+
+• Rangos de tiempo en cifras: «tres guion seis meses» -> 3-6 meses, «de tres a seis meses» -> de 3 a 6 meses.
+• «riesgo.aparte» (punto aparte pegado) ahora hace el punto aparte.
+• El modelo de lenguaje ya no queda cortado si el motor se reinicia mientras lo arma (y si lo está, se vuelve a armar solo).
+• Correcciones nuevas: midien(d)→midiendo, parenquimopulmonar→parénquima pulmonar, atelectasceas→atelectasias.
