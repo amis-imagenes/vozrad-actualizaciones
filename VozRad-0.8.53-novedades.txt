@@ -1,4 +1,0 @@
-VozRad 0.8.53
-
-• Contexto radiológico: al rearmar el modelo de idioma con más informes, el motor lo vuelve a leer al apagar y encender la casilla en ⚙ (sin reiniciar).
-• Entrenamiento: contexto.sh --solo-arpa arma un modelo de idioma candidato para compararlo antes de usarlo; los informes descargados que son del turno de prueba se excluyen para medir sin trampa.
