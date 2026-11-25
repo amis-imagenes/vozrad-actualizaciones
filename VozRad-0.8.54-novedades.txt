@@ -1,0 +1,5 @@
+VozRad 0.8.54
+
+• Comillas: «y recomillas», «sierra comillas», «cierra comillas» cierran la comilla (antes quedaba «recomillas» o «rodillas»); la comilla de cierre va pegada: "vidrio esmerilado".
+• Ya no queda espacio antes de la coma o el punto cuando se borró algo antes («2026 , persistiendo»).
+• Se descarta el inglés de fondo («I'm»). Correcciones nuevas: dueno→duodeno, hegos→hallazgos, tenores opacidades→tenues opacidades.
