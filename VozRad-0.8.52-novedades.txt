@@ -1,5 +1,0 @@
-VozRad 0.8.52
-
-• Contexto radiológico en el reconocimiento: ante palabras que suenan parecido, el motor prefiere las de tus informes (intersticiales, suprarrenal, colecistectomía, extrahepática…). Nunca agrega ni borra palabras ni cambia signos. Se apaga en ⚙ «Contexto radiológico».
-• El modelo de idioma con tus informes queda solo en tu PC (C:\VozRad\entrenamiento\contexto) y no se publica.
-• Nuevo evaluar_contexto.py para medirlo con tu turno de prueba.

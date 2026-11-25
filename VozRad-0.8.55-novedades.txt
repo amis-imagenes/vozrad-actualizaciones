@@ -1,0 +1,3 @@
+VozRad 0.8.55
+
+• Diagnóstico de frases lentas: cuando una frase tarda más de 1,5 s, el motor anota en qué se fue el tiempo (reconocimiento, contexto, escuchar el final, Canary, lectura desde disco) para encontrar la causa.
