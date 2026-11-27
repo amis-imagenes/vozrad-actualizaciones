@@ -1,0 +1,5 @@
+VozRad 0.8.62
+
+• Grados en símbolo: «trece grados» o «13 grados» -> 13°, también con decimales (12,5°). «grado dos», «alto grado» no cambian.
+• Cobb con mayúscula.
+• Incluye el arreglo de las frases lentas de la 0.8.61.
