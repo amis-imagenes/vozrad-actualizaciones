@@ -1,0 +1,5 @@
+VozRad 0.8.59
+
+• El panel de dictado muestra la versión instalada junto a «VozRad».
+• Primeras frases lentas tras un rato sin dictar (3-10 s): mientras no dictas, el motor mantiene la tarjeta gráfica despierta reconociendo un segundo de silencio cada 45 s.
+• Preparado (apagado por ahora) el cambio automático al procesador cuando otro programa ocupa la tarjeta; se activará cuando lo midamos.

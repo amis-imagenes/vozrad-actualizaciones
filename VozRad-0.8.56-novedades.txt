@@ -1,4 +1,0 @@
-VozRad 0.8.56
-
-• Números de tiempo en cifras: «seis meses» -> 6 meses, «doce semanas» -> 12 semanas, también días y años («un mes» y «una semana» quedan en letras).
-• Incluye el diagnóstico de frases lentas de la 0.8.55.
