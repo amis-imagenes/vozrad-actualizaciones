@@ -1,5 +1,0 @@
-VozRad 0.8.58
-
-• Las sugerencias que aceptas ya no vuelven a aparecer después de actualizar: una limpieza antigua de correcciones se repetía en cada actualización y borraba pares que habías vuelto a aceptar (hallados→hallazgos, teología→etiología, ape→AP…). Ahora cada limpieza se hace una sola vez.
-• No se sugieren correcciones de números («1→un»): nunca se aplican y volvían siempre.
-• Nuevo medir_decodificador.py para encontrar la causa de las frases lentas.
