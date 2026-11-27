@@ -1,0 +1,5 @@
+VozRad 0.8.64
+
+• Nuevo botón 📄 Plantillas en el panel: muestra solo las plantillas de la modalidad que estás dictando (según el título del informe; casilla «todas» para ver el resto). Clic en el nombre = se inserta de inmediato en el informe, con su título.
+• ✎ para editar cualquier plantilla (nombre, modalidad, título, técnica, hallazgos, impresión) y borrarla; queda respaldo en plantillas_respaldo.json.
+• ➕ Guardar este informe como plantilla: toma lo que tiene el informe (incluido el título) y lo guarda como plantilla nueva.

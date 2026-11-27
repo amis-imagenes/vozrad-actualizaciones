@@ -1,5 +1,0 @@
-VozRad 0.8.61
-
-• CAUSA de las frases lentas encontrada: después de guardar un informe, el motor rearmaba su modelo de contexto (30.000+ informes, ~95 s) dentro de sí mismo y eso frenaba el dictado (frases de 2-7 s). Ahora se arma en un proceso aparte con prioridad baja y se carga cuando no estás dictando; también el modelo de lenguaje.
-• El motor arranca más rápido: el modelo de contexto se guarda en disco (perfil/contexto_copia.pkl).
-• Entrenar palabra: ya no aprende expresiones comunes como «dónde es» (se quitó «dónde es → llene»).
