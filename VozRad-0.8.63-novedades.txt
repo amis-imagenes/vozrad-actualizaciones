@@ -1,0 +1,4 @@
+VozRad 0.8.63
+
+• Correcciones nuevas de tu dictado: ángulo de cobre→ángulo de Cobb, coxos/costo femorales→coxofemorales, «énfis más»→enfisema, parasital→paraseptal, «coledo copunto»/«cólero cop»→colédoco.
+• Epónimos con mayúscula: Cobb, Risser, Ferguson, Lippman, Meyerding (se agregan a tus nombres propios sin tocar los tuyos).

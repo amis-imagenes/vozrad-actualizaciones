@@ -1,5 +1,0 @@
-VozRad 0.8.60
-
-• Frases lentas: el motor de voz corre con prioridad «superior a lo normal» en Windows, para que el dictado pase primero cuando el visor u otro programa ocupa el procesador.
-• El cambio automático al procesador cuando la tarjeta está ocupada ahora también se activa cuando un solo paso espera mucho (la tarjeta se reparte por turnos con el visor).
-• Cuando una frase tarda más de 1,5 s, se anota qué programas usaban el procesador y la tarjeta en ese momento (historial/carga_frases_lentas.txt).
